@@ -1,0 +1,3 @@
+reads in rss 2.0 feed urls, one at a time from a file called 'feeds' and prints out houses and specs to a homes.out file
+
+feeds -> [rssFeedParser.py] -> homes.out
